@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="mailto:kalaiharisk2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hariharansenthilmurugan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -23,7 +23,7 @@
 - ⚡ I build enterprise **low-code solutions** with Power Apps, Power Automate and Dataverse
 - 🤖 I build AI-assisted apps and agents with **Copilot Studio** and Azure
 - 🎓 B.E. Computer Science and Engineering, Sri Krishna College of Technology (2022 – 2026)
-- 🌱 Currently learning: **PL-400 (Power Platform Developer)**, Azure integration, custom connectors and ALM
+- 🌱 Currently learning: **Agentic AI models** and **intelligent automation**
 - 💬 Ask me about: low-code automation, workflow design, Copilot Studio agents
 
 ---
@@ -65,6 +65,7 @@
 | 🔍 **InspectIQ (Agentic AI)** | Compliance and inspection tracking solution with a Copilot agent that supports inspection workflows. Built with secure, scalable workflows. | Power Apps, Power Automate, Azure, Copilot Studio |
 | 🎫 **IT Help Desk App & Analytics** | Internal help desk app with automated ticket lifecycle. Includes Power BI dashboards for admin performance (volume, resolution time, SLA) and executive KPIs. | Power Apps, Power Automate, Power BI |
 | 🫁 **Early Lung Cancer Detection** | CNN-based deep learning model for medical image classification. | Python, Deep Learning |
+| 💬 **React IRC** | Real-time chat application. | JavaScript, React |
 | 🌐 **Full Stack Dev** | Full-stack practice projects. | Java |
 
 > Some of my enterprise Power Platform work can't be shared publicly. I'm adding documentation, architecture diagrams and screenshots of my personal builds to this profile.
@@ -84,10 +85,8 @@
 
 ## 🎯 Currently Working Toward
 
-- [ ] PL-400: Power Platform Developer Associate
-- [ ] Custom connectors and API integration with Power Platform
-- [ ] ALM and solution deployment with Azure DevOps / GitHub Actions
-- [ ] Azure serverless integration (Functions, Logic Apps)
+- 🤖 **Agentic AI models**: building AI agents that can reason, plan and take actions
+- ⚙️ **Automation**: intelligent, end-to-end workflow and business process automation
 
 ---
 
